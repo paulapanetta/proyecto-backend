@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Sudadera con Capucha",
+    "description": "Sudadera con capucha y estampado en la parte delantera, cálida y cómoda.",
+    "code": "SUD001",
+    "price": 34,
+    "status": true,
+    "stock": 300,
+    "category": "Ropa",
+    "thumbnails": [
+      "hoodie1.jpg",
+      "hoodie2.jpg",
+      "hoodie3.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Vestido Floral",
+    "description": "Vestido corto con estampado floral y corte ceñido en la cintura.",
+    "code": "VES001",
+    "price": 39,
+    "status": true,
+    "stock": 150,
+    "category": "Ropa",
+    "thumbnails": [
+      "dress1.jpg",
+      "dress2.jpg",
+      "dress3.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Pantalones Vaqueros",
+    "description": "Pantalones vaqueros ajustados de tiro medio con efecto desgastado.",
+    "code": "PAN001",
+    "price": 49,
+    "status": true,
+    "stock": 200,
+    "category": "Ropa",
+    "thumbnails": [
+      "jeans1.jpg",
+      "jeans2.jpg",
+      "jeans3.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Blazer Clásico",
+    "description": "Blazer de corte clásico con solapa de muesca y cierre de dos botones.",
+    "code": "BLA001",
+    "price": 79,
+    "status": true,
+    "stock": 250,
+    "category": "Ropa",
+    "thumbnails": [
+      "blazer1.jpg",
+      "blazer2.jpg",
+      "blazer3.jpg"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Falda Plisada",
+    "description": "Falda plisada de talle alto con estampado de lunares y cierre de cremallera.",
+    "code": "FAL001",
+    "price": 24,
+    "status": true,
+    "stock": 350,
+    "category": "Ropa",
+    "thumbnails": [
+      "skirt1.jpg",
+      "skirt2.jpg",
+      "skirt3.jpg"
+    ]
+  }
+]
