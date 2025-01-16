@@ -105,7 +105,6 @@ class ProductManager {
     }
 }
 
-
 export const inicializarArchivoProducts = async (rutaProducts) => {
     try {
         if (!existsSync(rutaProducts)) {
